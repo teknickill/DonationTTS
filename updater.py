@@ -6,7 +6,7 @@ import subprocess
 import tempfile
 
 # --- CONFIGURATION ---
-APP_VERSION = "1.2.2"                         # <--- Set your current version string here
+APP_VERSION = "1.2.1"                         # <--- Set your current version string here
 GITHUB_REPO = "teknickill/DonationTTS"        # Repository path (owner/repo name)
 EXE_NAME = "StreamSuiteSetup.exe"             # Asset name attached to GitHub release
 
